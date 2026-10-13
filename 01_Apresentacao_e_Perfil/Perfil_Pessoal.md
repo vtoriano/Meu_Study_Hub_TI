@@ -8,7 +8,7 @@
 
 ## Biografia acadêmica
 
-Estudante do curso de Ciência de Dados e Machine Learning no UniCEUB. Concluí o ensino médio no ano passado e, embora ainda não tenha experiência profissional na área, o interesse por tecnologia sempre esteve presente na minha trajetória escolar. Ingressei no curso para entender melhor o mercado de trabalho em TI e identificar em qual área tenho mais afinidade para me especializar. Sinto atração particular pela organização de dados e pelas relações estatísticas.
+Sou Vitor Pupe e estou no segundo semestre de Ciência de Dados e Machine Learning no UniCEUB. Terminei o ensino médio no ano passado e sempre tive muito interesse em computação, contabilidade e estatística, e este curso foi o que mais juntou os meus interesses em um só. Espero melhorar meus conhecimentos sobre o mercado de trabalho, entender melhor o que realmente me interessa em um trabalho futuro e saber em que consigo me especializar melhor.
 
 ## Interesses e carreira
 
