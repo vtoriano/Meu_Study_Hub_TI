@@ -1,4 +1,4 @@
-# Meu Study Hub TI
+# PortfolioHUB
 
 Repositório de estudos e portfólio de **Vitor Pupe Brasil Vilaverde**, estudante de **Ciência de Dados e Machine Learning** no UniCEUB (Turma A).
 
