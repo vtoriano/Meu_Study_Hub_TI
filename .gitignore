@@ -1,0 +1,20 @@
+# Chaves e variáveis de ambiente sensíveis
+.env
+*.env
+secrets.json
+
+# Dados locais e grandes volumes
+*.csv
+*.xlsx
+*.parquet
+*.sqlite3
+
+# Arquivos temporários do Python e Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Configurações do ambiente virtual
+venv/
+.venv/
+env/
