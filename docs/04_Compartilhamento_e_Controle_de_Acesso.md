@@ -38,6 +38,13 @@ Detalhes e padrões estão em [CONTRIBUTING.md](../CONTRIBUTING.md).
 2. Criar uma branch, alterar e enviar.
 3. Abrir um pull request.
 
-## Prática registrada
+## Prática registrada- 
+- Issue: #1, "Ajustar seção de tecnologias no README"
+- Branch: 1-ajustar-seção-de-tecnologias-no-readme (1 commit, e196869)
+- Pull request: #2, com "Closes #1" na descrição
+- Merge: commit f220e89 na main, pelo botão "Merge pull request", sem bypass e sem aprovação, por ser o único dono do repositório
+- Branch apagada depois do merge
+- Resultado: a issue fechou automaticamente
 
-_[Preencher depois de fazer: link de uma issue e de um pull request reais do repositório, com a data e o resultado.]_
+O que eu aprendi com essa prática: me confundi em batantes coisas, como o botão de criar PR, sendo a que mais me confundiu, e entre outros, mas aprendi que main protegida evita alterações diretas, exigindo revisão e testes via Pull Request para reduzir bugs e preservar a estabilidade do código.
+O que eu faria diferente na próxima vez: gostaria de ter subido a pasta docs na primeira vez, me deu um trabalho maior em não ter feito tao cedo
