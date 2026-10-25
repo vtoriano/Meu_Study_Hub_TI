@@ -28,6 +28,12 @@ Meu_Study_Hub_TI/
 
 Cada disciplina contém as subpastas `Atividades_e_Entregas/` e `Anotacoes_e_Resumos/`.
 
+## Tecnologias e ferramentas
+
+- Git e GitHub, para versionamento e publicação
+- HTML5 e CSS3, para a página do portfólio
+- GitHub Pages, para publicação
+  
 ## Seções
 
 | Pasta | Conteúdo |
