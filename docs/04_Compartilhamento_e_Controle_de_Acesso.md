@@ -40,4 +40,14 @@ Detalhes e padrões estão em [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## Prática registrada
 
-_[Preencher depois de fazer: link de uma issue e de um pull request reais do repositório, com a data e o resultado.]_
+## Prática registrada
+
+- Issue: #1, "Ajustar seção de tecnologias no README"
+- Branch: 1-ajustar-seção-de-tecnologias-no-readme (1 commit, e196869)
+- Pull request: #2, com "Closes #1" na descrição
+- Merge: commit f220e89 na main, pelo botão "Merge pull request", sem bypass e sem aprovação, por ser o único dono do repositório
+- Branch apagada depois do merge
+- Resultado: a issue fechou automaticamente
+
+O que eu aprendi com essa prática: eu tive dificuldades e muitas duvidas, e a principal foi o botão de criar PR, e entre outras, mas aprendi que a main do GitHub bloqueia alterações diretas para exigir revisão e aprovação via Pull Request, protegendo o código principal contra erros, bugs e mudanças não autorizadas.
+O que eu faria diferente na próxima vez: : subir a pasta docs na primeira vez, ela me atrasou bastante tempo
